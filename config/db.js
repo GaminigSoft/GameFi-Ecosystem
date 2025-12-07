@@ -5,7 +5,7 @@ const crypto = require("crypto");
 
 // Your encrypted value (replace with the ciphertext produced by your encrypt function)
 const encryptedData =
-    "158908c82f8a9af516d339b66d0e1fec:1b349c06ca1395c7f90ce24711d9b6a52d967605bae38c23ac84a4202d55f04d";
+    "f3a94b9d0b2f2e15a0e0ffcac91dd54d:cc078b9b3d64ef33cc0cd5ef906fa28ea24ce689eb33e3f4736d8b6f7735cf7b";
 
 const connectDB = async () => {
   try {
