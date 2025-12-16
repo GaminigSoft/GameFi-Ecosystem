@@ -1,7 +1,7 @@
-﻿# SoftGalaxyBet
+﻿# SoftGalaxy
 
 
-**Decentralized Gaming World** — a Web3 gaming, staking, and affiliate platform powered by the **BET** token.
+**Decentralized Gaming World** — a Web3 gaming, staking, and affiliate platform powered by the token.
 
 ![SoftGalaxy platform](./client/public/images/galaxy/main.jpg)
 
@@ -9,11 +9,11 @@
 
 ## How it works
 
-SoftGalaxyBet runs on a single value loop:
+SoftGalaxy runs on a single value loop:
 
 **Stake → Play → Refer → Claim**
 
-1. **Stake** — Users lock BET into pools that support house liquidity and earn yield.
+1. **Stake** — Users lock into pools that support house liquidity and earn yield.
 2. **Play** — In-platform games (roulette, slots, blackjack, prediction) drive engagement and reward flow.
 3. **Refer** — A binary + linear affiliate tree pays direct and volume bonuses upline.
 4. **Claim** — Staking, gaming, and affiliate earnings settle in one dashboard claim path.
@@ -55,4 +55,4 @@ npm start
 
 ---
 
-Copyright © 2025 SoftGalaxyBet
+Copyright © 2025 SoftGalaxy
